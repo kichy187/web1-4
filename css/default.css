@@ -7,9 +7,7 @@ p.h2:first-letter {
     font-size:500%;
     color:#1aa;
     line-height: 1;
-    float: left;
     padding: 3px;
-    padding-bottom: 50px;
     margin-right: 3px;
 }
 li{
