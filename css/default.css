@@ -9,6 +9,8 @@ p{
     font-size: 0.8em;
 }
 li{
+    width: 300px;
+    padding: 10px;
     border: 1px solid #cccccc;
 }
 body{
