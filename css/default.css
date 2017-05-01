@@ -3,7 +3,12 @@ h1{
     font-weight: 700;/*文字を太文字に*/
 }
 h2{
-    font-size: 3em;
+    font-weight:bold;
+    font-size:500%;
+    color:#1aa;
+    line-height: 1;
+    padding: 3px;
+    margin-right: 3px;
 }
 li{
     background: #ffffff;
