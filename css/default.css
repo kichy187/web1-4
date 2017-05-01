@@ -1,7 +1,6 @@
 @charset "UTF-8"; 
 h1{
-    font-size: 1.75em;
-    font-weight:2em;/*文字を太文字に*/
+    font-weight: 700;/*文字を太文字に*/
 }
 h2{
     font-size: 1.25em;
