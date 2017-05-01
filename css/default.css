@@ -9,7 +9,7 @@ p{
     font-size: 0.8em;
 }
 li{
-    font-size: 0.8em;
+    border: 1px solid #cccccc;
 }
 body{
     background-color: #fbf9cc; /* 背景色を変える */
