@@ -3,12 +3,10 @@ h1{
     font-weight: 700;/*文字を太文字に*/
 }
 h2{
-    font-size: 1.25em;
-}
-p{
-    font-size: 0.8em;
+    font-size: 3em;
 }
 li{
+    background: #ffffff;
     width: 300px;
     padding: 10px;
     border: 1px solid #cccccc;
