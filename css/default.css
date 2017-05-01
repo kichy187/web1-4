@@ -8,6 +8,9 @@ h2{
 p{
     font-size: 0.8em;
 }
+body{
+    background-color: #fbf9cc; /* 背景色を変える */
+}
 li{
     font-size: 0.8em;
 }
