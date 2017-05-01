@@ -2,13 +2,8 @@
 h1{
     font-weight: 700;/*文字を太文字に*/
 }
-p.h2:first-letter {
-    font-weight:bold;
-    font-size:500%;
-    color:#1aa;
-    line-height: 1;
-    padding: 3px;
-    margin-right: 3px;
+h2{
+    font-size: 1.25em;
 }
 li{
     background: #ffffff;
