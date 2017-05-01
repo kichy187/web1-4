@@ -2,7 +2,7 @@
 h1{
     font-weight: 700;/*文字を太文字に*/
 }
-h2{
+p.h2{
     font-weight:bold;
     font-size:500%;
     color:#1aa;
@@ -12,8 +12,8 @@ h2{
 }
 li{
     background: #ffffff;
-    width: 300px;
     padding: 10px;
+    width: 300px;
     border: 1px solid #cccccc;
 }
 body{
