@@ -13,6 +13,7 @@ h2{
 li{
     background: #ffffff;
     width: 300px;
+    padding: 10px;
     border: 1px solid #cccccc;
 }
 body{
