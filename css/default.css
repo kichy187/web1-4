@@ -1,6 +1,7 @@
 @charset "UTF-8"; 
 h1{
     font-size: 1.75em;
+    font-weight:/*文字を太文字に*/
 }
 h2{
     font-size: 1.25em;
@@ -13,7 +14,4 @@ li{
 }
 body{
     background-color: #fbf9cc; /* 背景色を変える */
-}
-h3{
-    font-size: 1.5em;/*文字を太文字に*/
 }
